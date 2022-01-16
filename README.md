@@ -2,16 +2,12 @@
 <h1>
 <div display="inline-block">
    <a href="https://github.com/Leosnt/dio-projetos">
-  <img src="https://user-images.githubusercontent.com/93165753/145647307-9ab46752-7175-46dd-a63a-93755da379c6.png" alt="Desafio Pub Future" width="170" align="left" >
+  <img src="(https://user-images.githubusercontent.com/93165753/149680844-3436123c-0001-4581-a758-5d65a9afb370.png" alt="Desafio Pub Future" width="400" align="left" >
     </a> Desafio PubFuture
   </div>
 </h1>
 
 <sup>
-  <i>Repositório exclusivo  para projetos, desafios e aplicações da Comunidade Digital Innovation One</i>
+  <i>Projetos referente ao desafio proposto pela PubFuture</i>
 </sup>
-
-<h3> Links úteis </h3>
-
-- [Digital Innovation One](https://digitalinnovation.one/)
-
+40
