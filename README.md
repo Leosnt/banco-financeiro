@@ -8,7 +8,7 @@
 </h1>
 
 <sup>
-  <i>Projetos referente ao desafio proposto pela PubFuture</i>
+  <i>Projeto referente ao desafio proposto pela PubFuture</i>
 </sup>
 
 <br>
