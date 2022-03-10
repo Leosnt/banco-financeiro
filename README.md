@@ -3,12 +3,12 @@
 <div display="inline-block">
    <a href="https://github.com/Leosnt/dio-projetos">
   <img src="https://user-images.githubusercontent.com/93165753/149680844-3436123c-0001-4581-a758-5d65a9afb370.png" alt="Desafio Pub Future" width="'170px" align="left" >
-    </a> Desafio PubFuture
+    </a> Banco de Dados
   </div>
 </h1>
 
 <sup>
-  <i>Projeto referente ao desafio proposto pela PubFuture</i>
+  <i>Projeto criado referente a um banco de dados financeiro</i>
 </sup>
 
 <br>
